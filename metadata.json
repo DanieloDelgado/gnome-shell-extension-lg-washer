@@ -1,0 +1,10 @@
+{
+    "name": "LG Washer",
+    "description": "ThinQ LG Washer extension for GNOME Shell",
+    "uuid": "lg-washer@DanieloDelgado.com",
+    "url": "https://github.com/DanieloDelgado/gnome-shell-extension-lg-washer",
+    "settings-schema": "org.gnome.shell.extensions.lg-washer",
+    "shell-version": [
+        "48"
+    ]
+}

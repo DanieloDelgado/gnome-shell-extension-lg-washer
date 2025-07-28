@@ -1,0 +1,27 @@
+{
+  "name": "lg-washer",
+  "version": "0.0.0",
+  "description": "ThinQ LG Washer extension for GNOME Shell",
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanieloDelgado/gnome-shell-extension-lg-washer.git"
+  },
+  "author": "Daniel O. Delgado <danielo.delgado@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DanieloDelgado/gnome-shell-extension-lg-washer/issues"
+  },
+  "homepage": "https://github.com/DanieloDelgado/gnome-shell-extension-lg-washer",
+  "sideEffects": false,
+  "devDependencies": {
+    "eslint": "^9.32.0",
+    "eslint-plugin-jsdoc": "^51.4.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@girs/gjs": "^4.0.0-beta.25",
+    "@girs/gnome-shell": "^48.0.2"
+  }
+}
